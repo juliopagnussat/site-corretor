@@ -18,9 +18,9 @@ export default function Home() {
         <h3>Corretor de Imóveis<p>CRECI 37034</p></h3>
         <p></p>
         <div className="redes-sociais">
-        <a href="http://bit.ly/whats_juliopagnussat"><i className="bi bi-whatsapp"></i>Whatsapp</a>
-        <a href="http://instagram.com/corretorjuliopagnussat"><i className="bi bi-instagram"></i>Instagram</a>
-        <a href="http://youtube.com/juliopag"><i className="bi bi-youtube"></i>Youtube</a>
+        <a className="rede" href="http://bit.ly/whats_juliopagnussat"><i className="bi bi-whatsapp"></i>Whatsapp</a>
+        <a className="rede" href="http://instagram.com/corretorjuliopagnussat"><i className="rede bi bi-instagram"></i>Instagram</a>
+        <a className="rede" href="http://youtube.com/juliopag"><i className="bi bi-youtube"></i>Youtube</a>
         </div>        
       </main>
 
