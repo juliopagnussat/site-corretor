@@ -13,8 +13,11 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Bem vindo!</h1>
         <p></p>
-        <i class="fab fa-whatsapp"></i>
-                
+        <div className="redes-sociais">
+        <a href="http://bit.ly/whats_juliopagnussat"><i className="bi bi-whatsapp"></i></a>
+        <a href="http://instagram.com/corretorjuliopagnussat"><i className="bi bi-instagram"></i></a>
+        <a href="http://youtube.com/juliopag"><i className="bi bi-youtube"></i></a>
+        </div>        
       </main>
 
       <footer className={styles.footer}>

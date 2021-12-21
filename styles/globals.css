@@ -14,3 +14,28 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.bi-whatsapp {
+  color: green;
+  font-size: 2rem;
+}
+
+.bi-instagram {
+  color: rgb(165, 1, 97);
+  font-size: 2rem;
+}
+
+.bi-youtube {
+  color: red;
+  font-size: 2rem;
+}
+
+.bi {
+  margin-left: 20px;
+}
+
+.redes-sociais {
+  display: flex;
+  margin-left: 50%;
+  margin-right: 50%;
+}
