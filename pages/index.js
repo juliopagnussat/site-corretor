@@ -21,12 +21,9 @@ export default function Home() {
         <a className="rede" href="http://bit.ly/whats_juliopagnussat"><i className="bi bi-whatsapp"></i>Whatsapp</a>
         <a className="rede" href="http://instagram.com/corretorjuliopagnussat"><i className="rede bi bi-instagram"></i>Instagram</a>
         <a className="rede" href="http://youtube.com/juliopag"><i className="bi bi-youtube"></i>Youtube</a>
-        </div>      
-      <div className="video-main">
-      <YouTube videoId="DfSM1L3V8yc" />
-      </div>
+        </div> 
       </main>
-
+      
       <footer>
         
       </footer>
