@@ -1,6 +1,4 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
-import FotoPerfil from '../public/images/perfil-corretor.jpg'
 
 export default function Home() {
   return (
@@ -12,16 +10,14 @@ export default function Home() {
       </Head>
 
       <main>
-        <section className="banner">
-          <div className="max-width">
-            <div className="top-content">
-              <img src={ FotoPerfil } alt="" />
-            </div>
+        <div className="menu">
+          <div className="titulo">
+            Bem vindo!
           </div>
-        </section>
+        </div>
       </main>
 
-      <footer className={styles.footer}>
+      <footer>
         
       </footer>
     </div>

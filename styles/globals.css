@@ -36,33 +36,21 @@ a {
 
 .redes-sociais {
   display: flex;
-  margin-left: 50%;
-  margin-right: 50%;
+  left: 50%;
+  right: 50%;
 }
 
-.max-width {
-  max-width: 930px;
+h1{
+  font-size: 4rem;
 }
 
-section{
-  padding: 50px 0;
-}
-@media(max-width: 690px){
-  section{
-    padding: 20px 0;
-  }
-}
-.banner {
-  color:white;
-  display: flex;
-  background: url("../public/images/img01.jpeg");
-  height: 400px;
-  width: 100vw;
-  background-size: cover;
+h2{
+  font-size: 2rem;
+  line-height: 0px;
 }
 
-.text-banner {
-  font-size: 3rem;
-  margin-left: 30px;
+h3{
+  font-size: 0.8rem;
   text-align: center;
+  line-height: 5px;
 }
