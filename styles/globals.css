@@ -39,3 +39,30 @@ a {
   margin-left: 50%;
   margin-right: 50%;
 }
+
+.max-width {
+  max-width: 930px;
+}
+
+section{
+  padding: 50px 0;
+}
+@media(max-width: 690px){
+  section{
+    padding: 20px 0;
+  }
+}
+.banner {
+  color:white;
+  display: flex;
+  background: url("../public/images/img01.jpeg");
+  height: 400px;
+  width: 100vw;
+  background-size: cover;
+}
+
+.text-banner {
+  font-size: 3rem;
+  margin-left: 30px;
+  text-align: center;
+}
