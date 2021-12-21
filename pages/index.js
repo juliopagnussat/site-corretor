@@ -11,7 +11,6 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1>Bem vindo!</h1>
         <h2>Julio Cezar Pagnussat</h2>
         <h3>Corretor de Imóveis<p>CRECI 37034</p></h3>
         <p></p>

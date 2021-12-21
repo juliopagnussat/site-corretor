@@ -38,15 +38,16 @@ a {
   display: flex;
   left: 50%;
   right: 50%;
+  text-align: center;
 }
 
 h1{
-  font-size: 4rem;
+  font-size: 1.5rem;
   text-align: center;
 }
 
 h2{
-  font-size: 2rem;
+  font-size: 1rem;
   line-height: 0px;
   text-align: center;
 }
