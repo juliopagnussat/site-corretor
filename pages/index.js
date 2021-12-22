@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import YouTube from 'react-youtube';
+import Image from 'next/image'
 
 export default function Home() {
   return (
@@ -12,7 +13,12 @@ export default function Home() {
 
       <main className="main">
         <div>
-          <img className="foto-perfil" src="https://raw.githubusercontent.com/juliopagnussat/site-corretor/main/public/images/perfil-corretor.jpeg" width="100px" height="100px"/>
+          <Image
+            src="/public/images/perfi-corretor.jpeg"
+            alt=""
+            width={100}
+            height={100}
+          />
         </div>
         <h1>Julio Cezar Pagnussat</h1>
         <h3>Consultor Imobiliário<p>CRECI 37034</p></h3>
