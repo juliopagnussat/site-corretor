@@ -17,19 +17,19 @@ export default function Home() {
             <div className="wrapper">
               <div className="icon whatsapp">
                 <div className="tooltip">Whatsapp</div>
-                <span><a href="http://bit.ly/whats_juliopagnussat"><i class="bi bi-whatsapp"></i></a></span>
+                <span><a href="http://bit.ly/whats_juliopagnussat"><i className="bi bi-whatsapp"></i></a></span>
               </div>
               <div className="icon facebook">
                 <div className="tooltip">Facebook</div>
-                <span><a href="http://facebook.com/juliopagnussatcorretor"><i class="bi bi-facebook"></i></a></span>
+                <span><a href="http://facebook.com/juliopagnussatcorretor"><i className="bi bi-facebook"></i></a></span>
               </div>
               <div className="icon instagram">
                 <div className="tooltip">Instagram</div>
-                <span><a href="http://instagram.com/corretorjuliopagnussat"><i class="bi bi-instagram"></i></a></span>
+                <span><a href="http://instagram.com/corretorjuliopagnussat"><i className="bi bi-instagram"></i></a></span>
               </div>
               <div className="icon youtube">
                 <div className="tooltip">Youtube</div>
-                <span><a href="http://youtube.com/juliopag"><i class="bi bi-youtube"></i></a></span>
+                <span><a href="http://youtube.com/juliopag"><i className="bi bi-youtube"></i></a></span>
               </div>
             </div>
       </main>
