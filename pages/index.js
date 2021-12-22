@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Image from 'next/image'
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       </Head>
 
       <main className="main">
+        <Image src="/public/images/perfil-corretor.jpeg" width={100} height={100} />
         <h1>Julio Cezar Pagnussat</h1>
         <h3>Consultor Imobiliário<p>CRECI 37034</p></h3>
         <p></p>
