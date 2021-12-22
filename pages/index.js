@@ -11,9 +11,6 @@ export default function Home() {
       </Head>
 
       <main className="main">
-        <div>
-          <Image src="/public/images/perfi-corretor.jpeg" alt="" width={30} height={30} />
-        </div>
         <h1>Julio Cezar Pagnussat</h1>
         <h3>Consultor Imobiliário<p>CRECI 37034</p></h3>
         <p></p>
