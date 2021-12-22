@@ -14,21 +14,21 @@ export default function Home() {
         <h3>Consultor Imobiliário<p>CRECI 37034</p></h3>
         <p></p>
         <p></p>
-            <div class="wrapper">
-              <div class="icon whatsapp">
-                <div class="tooltip">Whatsapp</div>
+            <div className="wrapper">
+              <div className="icon whatsapp">
+                <div className="tooltip">Whatsapp</div>
                 <span><a href="http://bit.ly/whats_juliopagnussat"><i class="bi bi-whatsapp"></i></a></span>
               </div>
-              <div class="icon facebook">
-                <div class="tooltip">Facebook</div>
+              <div className="icon facebook">
+                <div className="tooltip">Facebook</div>
                 <span><a href="http://facebook.com/juliopagnussatcorretor"><i class="bi bi-facebook"></i></a></span>
               </div>
-              <div class="icon instagram">
-                <div class="tooltip">Instagram</div>
+              <div className="icon instagram">
+                <div className="tooltip">Instagram</div>
                 <span><a href="http://instagram.com/corretorjuliopagnussat"><i class="bi bi-instagram"></i></a></span>
               </div>
-              <div class="icon youtube">
-                <div class="tooltip">Youtube</div>
+              <div className="icon youtube">
+                <div className="tooltip">Youtube</div>
                 <span><a href="http://youtube.com/juliopag"><i class="bi bi-youtube"></i></a></span>
               </div>
             </div>
