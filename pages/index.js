@@ -14,18 +14,36 @@ export default function Home() {
         <div>
           <img className="foto-perfil" src="https://raw.githubusercontent.com/juliopagnussat/site-corretor/main/public/images/perfil-corretor.jpeg" width="100px" height="100px"/>
         </div>
-        <h2>Julio Cezar Pagnussat</h2>
-        <h3>Corretor de Imóveis<p>CRECI 37034</p></h3>
+        <h1>Julio Cezar Pagnussat</h1>
+        <h3>Consultor Imobiliário<p>CRECI 37034</p></h3>
         <p></p>
-        <div className="redes-sociais">
-        <a className="rede" href="http://bit.ly/whats_juliopagnussat"><i className="bi bi-whatsapp"></i>Whatsapp</a>
-        <a className="rede" href="http://instagram.com/corretorjuliopagnussat"><i className="rede bi bi-instagram"></i>Instagram</a>
-        <a className="rede" href="http://youtube.com/juliopag"><i className="bi bi-youtube"></i>Youtube</a>
-        </div> 
+        <p></p>
+            <div class="wrapper">
+              <div class="icon whatsapp">
+                <div class="tooltip">Whatsapp</div>
+                <span><a href="http://bit.ly/whats_juliopagnussat"><i class="bi bi-whatsapp"></i></a></span>
+              </div>
+              <div class="icon facebook">
+                <div class="tooltip">Facebook</div>
+                <span><a href="http://facebook.com/juliopagnussatcorretor"><i class="bi bi-facebook"></i></a></span>
+              </div>
+              <div class="icon instagram">
+                <div class="tooltip">Instagram</div>
+                <span><a href="http://instagram.com/corretorjuliopagnussat"><i class="bi bi-instagram"></i></a></span>
+              </div>
+              <div class="icon youtube">
+                <div class="tooltip">Youtube</div>
+                <span><a href="http://youtube.com/juliopag"><i class="bi bi-youtube"></i></a></span>
+              </div>
+            </div>
       </main>
       
-      <footer>
-        
+      <footer className="footer">
+          <div className="text-footer">
+            <h2>Corretor de Imóveis</h2>
+            <p></p>
+            <a href="http://www.alternativachapeco.com.br">www.alternativachapeco.com.br</a>
+          </div>
       </footer>
     </div>
   )
