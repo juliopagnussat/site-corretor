@@ -11,7 +11,9 @@ export default function Home() {
       </Head>
 
       <main className="main">
-        <Image src="/public/images/perfil-corretor.jpeg" width={100} height={100} />
+        <div>
+          <img className="foto-perfil" src="https://raw.githubusercontent.com/juliopagnussat/site-corretor/main/public/images/perfil-corretor.jpeg" width={100} height={100}/>
+        </div>
         <h1>Julio Cezar Pagnussat</h1>
         <h3>Consultor Imobiliário<p>CRECI 37034</p></h3>
         <p></p>
