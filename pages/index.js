@@ -12,12 +12,10 @@ export default function Home() {
 
       <main className="main">
         <div>
-          <img className="foto-perfil" src="https://raw.githubusercontent.com/juliopagnussat/site-corretor/main/public/images/Logo.png"/>
+          <img src="https://raw.githubusercontent.com/juliopagnussat/site-corretor/main/public/images/Logo.png" width={350}/>
         </div>
-        <h1>Julio Cezar Pagnussat</h1>
-        <h3>Consultor Imobiliário<p>CRECI 37034</p></h3>
-        <p></p>
-        <p></p>
+        <br></br>
+        <br></br>
             <div className="wrapper">
               <div className="icon whatsapp">
                 <div className="tooltip">Whatsapp</div>
