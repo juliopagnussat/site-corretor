@@ -38,7 +38,9 @@ export default function Home() {
       </main>
       
       <footer className="footer">
+          
           <div className="text-footer">
+            <h2>Contato: (49) 99115-2221</h2>
             <h2>Corretor de Imóveis</h2>
             <p></p>
             <a href="http://www.alternativachapeco.com.br">www.alternativachapeco.com.br</a>
