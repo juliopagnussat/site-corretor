@@ -15,7 +15,7 @@ export default function Home() {
           <img src="https://raw.githubusercontent.com/juliopagnussat/site-corretor/main/public/images/Logo.png" width={350}/>
         </div>
         <br></br>
-        <h2>Escolha um dos links abaixo para conversar comigo!</h2>
+        <h3>Escolha um dos links abaixo para conversar comigo!</h3>
         <br></br>
             <div className="wrapper">
               <div className="icon whatsapp">
