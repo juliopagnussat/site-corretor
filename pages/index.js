@@ -28,7 +28,7 @@ export default function Home() {
               </div>
               <div className="icon instagram">
                 <div className="tooltip">Instagram</div>
-                <span><a href="http://instagram.com/corretorjuliopagnussat"><i className="bi bi-instagram"></i></a></span>
+                <span><a href="http://instagram.com/juliopagnussatcorretor"><i className="bi bi-instagram"></i></a></span>
               </div>
               <div className="icon youtube">
                 <div className="tooltip">Youtube</div>
