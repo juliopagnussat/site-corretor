@@ -20,7 +20,7 @@ export default function Home() {
             <div className="wrapper">
               <div className="icon whatsapp">
                 <div className="tooltip">Whatsapp</div>
-                <span><a href="http://bit.ly/whats_juliopagnussat"><i className="bi bi-whatsapp"></i></a></span>
+                <span><a href="http://bit.ly/juliopagnussat"><i className="bi bi-whatsapp"></i></a></span>
               </div>
               <div className="icon facebook">
                 <div className="tooltip">Facebook</div>
