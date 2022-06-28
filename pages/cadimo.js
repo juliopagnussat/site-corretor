@@ -1,4 +1,4 @@
-function cadimo () {
+export default function cadimo () {
     return (
         <div>
             <Head>
