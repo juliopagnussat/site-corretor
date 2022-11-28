@@ -43,7 +43,7 @@ export default function Home() {
             <h2>Contato: (49) 99115-2221</h2>
             <h2>Corretor de Imóveis</h2>
             <p></p>
-            <a href="http://www.alternativachapeco.com.br">www.alternativachapeco.com.br</a>
+            <a href="http://www.flety.com.br">www.flety.com.br</a>
           </div>
       </footer>
     </div>
